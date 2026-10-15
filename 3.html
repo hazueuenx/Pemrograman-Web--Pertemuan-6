@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pertemuan 6 Tugas 1</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-links">
+        <a href="index.html">Latihan 1</a>
+        <a href="2.html">Latihan 2</a>
+        <a href="3.html">Latihan 3</a>
+      </div>
+    </nav>
+
+    <section class="contact-form">
+      <form>
+        <div>
+          <label for="nama">Nama:</label>
+          <input type="text" id="nama" name="name" required />
+        </div>
+
+        <div>
+          <label for="alamat">Alamat:</label>
+          <input type="text" id="alamat" name="text" required />
+        </div>
+
+        <div>
+          <label for="email">Email:</label>
+          <input
+            type="text"
+            id="email"
+            name="email"
+            placeholder="example@domain.com"
+            required
+          />
+          <span id="error-message" class="error-message"></span>
+        </div>
+
+        <div>
+          <label for="password">Password:</label>
+          <input type="text" id="password" name="password" required />
+        </div>
+
+        <div>
+          <label for="mata_kuliah">Mata Kuliah:</label>
+          <select name="mata_kuliah" id="mata_kuliah" required>
+            <option value="null">Pilih Jurusan</option>
+            <option value="Pemrograman Web">Pemrograman Web</option>
+            <option value="Jaringan Komputer">Jaringan Komputer</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="kampus">Kampus:</label>
+          <input type="text" id="kampus" name="kampus" required />
+        </div>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+    <script src="js/3.js"></script>
+  </body>
+</html>

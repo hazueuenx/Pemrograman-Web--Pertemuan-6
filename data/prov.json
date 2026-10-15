@@ -1,0 +1,134 @@
+{
+  "Jawa Timur": {
+    "Sidoarjo": [
+      {
+        "nama": "Kecamatan Sidoarjo",
+        "kode_pos": "61211"
+      },
+      {
+        "nama": "Kecamatan Buduran",
+        "kode_pos": "61252"
+      },
+      {
+        "nama": "Kecamatan Candi",
+        "kode_pos": "61271"
+      }
+    ],
+    "Gresik": [
+      {
+        "nama": "Kecamatan Gresik",
+        "kode_pos": "61111"
+      },
+      {
+        "nama": "Kecamatan Kebomas",
+        "kode_pos": "61121"
+      },
+      {
+        "nama": "Kecamatan Manyar",
+        "kode_pos": "61151"
+      }
+    ],
+    "Malang": [
+      {
+        "nama": "Kecamatan Kepanjen",
+        "kode_pos": "65163"
+      },
+      {
+        "nama": "Kecamatan Lawang",
+        "kode_pos": "65153"
+      },
+      {
+        "nama": "Kecamatan Singosari",
+        "kode_pos": "65153"
+      }
+    ]
+  },
+  "Jawa Barat": {
+    "Bandung": [
+      {
+        "nama": "Kecamatan Soreang",
+        "kode_pos": "40911"
+      },
+      {
+        "nama": "Kecamatan Ciwidey",
+        "kode_pos": "40973"
+      },
+      {
+        "nama": "Kecamatan Banjaran",
+        "kode_pos": "40377"
+      }
+    ],
+    "Bogor": [
+      {
+        "nama": "Kecamatan Cibinong",
+        "kode_pos": "16911"
+      },
+      {
+        "nama": "Kecamatan Ciawi",
+        "kode_pos": "16720"
+      },
+      {
+        "nama": "Kecamatan Sukaraja",
+        "kode_pos": "16710"
+      }
+    ],
+    "Bekasi": [
+      {
+        "nama": "Kecamatan Cikarang Pusat",
+        "kode_pos": "17530"
+      },
+      {
+        "nama": "Kecamatan Cikarang Barat",
+        "kode_pos": "17520"
+      },
+      {
+        "nama": "Kecamatan Cikarang Utara",
+        "kode_pos": "17530"
+      }
+    ]
+  },
+  "Jawa Tengah": {
+    "Semarang": [
+      {
+        "nama": "Kecamatan Ungaran Barat",
+        "kode_pos": "50511"
+      },
+      {
+        "nama": "Kecamatan Ungaran Timur",
+        "kode_pos": "50519"
+      },
+      {
+        "nama": "Kecamatan Ambarawa",
+        "kode_pos": "50611"
+      }
+    ],
+    "Boyolali": [
+      {
+        "nama": "Kecamatan Boyolali",
+        "kode_pos": "57311"
+      },
+      {
+        "nama": "Kecamatan Mojosongo",
+        "kode_pos": "57321"
+      },
+      {
+        "nama": "Kecamatan Teras",
+        "kode_pos": "57372"
+      }
+    ],
+    "Klaten": [
+      {
+        "nama": "Kecamatan Klaten Tengah",
+        "kode_pos": "57411"
+      },
+      {
+        "nama": "Kecamatan Klaten Utara",
+        "kode_pos": "57438"
+      },
+      {
+        "nama": "Kecamatan Klaten Selatan",
+        "kode_pos": "57421"
+      }
+    ]
+  }
+}
